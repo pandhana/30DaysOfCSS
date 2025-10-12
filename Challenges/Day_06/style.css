@@ -10,7 +10,7 @@ body {
     /* position: relative; */
     width: 90px;
     height: 90px;
-    background-color: white;
+    background-color: red;
     transform: rotate(45deg);
     animation: beat 1.4s linear infinite;
 }
